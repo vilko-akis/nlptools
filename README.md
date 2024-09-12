@@ -1,2 +1,2 @@
 # tokenizer
-Text Tokenizer
+Natural Language Text Tokenizer
